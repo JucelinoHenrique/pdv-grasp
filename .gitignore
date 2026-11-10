@@ -1,0 +1,27 @@
+
+# Arquivos gerados pela compilação
+target/
+build/
+dist/
+nbbuild/
+nbdist/
+
+# Configurações privadas do NetBeans
+**/nbproject/private/
+**/nbproject/Makefile-*.mk
+**/nbproject/Package-*.bash
+.nb-gradle/
+
+# Arquivos temporários e logs
+*.log
+*.tmp
+*.class
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos com configurações locais e segredos
+.env
+.env.*
+!.env.example
