@@ -27,6 +27,7 @@ public final class Tema {
     public static final Color ERRO               = new Color(0xDC2626); // vermelho: erros
     public static final Color PAINEL_TOTAL       = new Color(0x0F172A); // cartão escuro do total
     public static final Color TEXTO_SOBRE_ESCURO = new Color(0xF8FAFC);
+    public static final Color AVISO              = new Color(0xD97706); // âmbar: aguardando pagamento
 
     // ===== Medidas =====
     public static final int RAIO = 12;        // cantos arredondados
